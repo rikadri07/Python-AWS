@@ -1,0 +1,3 @@
+npm install -g serverless
+serverless create --template aws-nodejs --path serverless-app-backend
+cd serverless-app-backend

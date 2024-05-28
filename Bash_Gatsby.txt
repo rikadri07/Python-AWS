@@ -1,0 +1,2 @@
+npx gatsby new serverless-app-frontend
+cd serverless-app-frontend
